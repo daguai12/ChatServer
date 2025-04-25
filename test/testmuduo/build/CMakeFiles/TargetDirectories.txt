@@ -1,0 +1,3 @@
+/home/daguai/Documents/chatserver/test/testmuduo/build/CMakeFiles/server.dir
+/home/daguai/Documents/chatserver/test/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/daguai/Documents/chatserver/test/testmuduo/build/CMakeFiles/rebuild_cache.dir
